@@ -1,6 +1,6 @@
 # WorldExplorer - RA3
 
-**Autor:** [Tu Nombre]
+**Autor:** ota
 **Mòdul:** 0489 · DAM · PratFP
 **Data:** 12/05/2026
 
